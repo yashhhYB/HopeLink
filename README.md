@@ -91,7 +91,8 @@ npm install
 
 # Run the development server
 npm run dev
-🧪 API Endpoints (Sample)
+```
+##🧪 API Endpoints (Sample)
 /api/patient/register
 
 /api/donor/log-donation
@@ -102,7 +103,7 @@ npm run dev
 
 /api/chatbot/ask
 
-🔐 Security & Privacy
+## 🔐 Security & Privacy
 Role-Based Access Control (RBAC)
 
 End-to-End Data Encryption
@@ -113,7 +114,7 @@ GDPR + Indian Health Data Compliance
 
 Consent-based data sharing model
 
-🤝 Contributions
+## 🤝 Contributions
 We welcome suggestions, issues, and feature requests!
 
 Fork the repository
@@ -126,5 +127,5 @@ Push to the branch: git push origin feature/YourFeature
 
 Open a Pull Request
 
-📃 License
+## 📃 License
 Licensed under the MIT License.
